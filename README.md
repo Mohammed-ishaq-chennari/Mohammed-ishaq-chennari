@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed-ishaq-chennari
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Node,Express,Mongo.db
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Fronted--
 - 📫 How to reach me 
 
 - mail: ishac145@gmial.com,
